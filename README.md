@@ -1,0 +1,2 @@
+# vsan_memory_consumption
+vsan記憶體耗用估算工具
